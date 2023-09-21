@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SYMPTOM MONITOR</string>
+    <string-array name="symptoms">
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>diarrhea</item>
+        <item>Soar Throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Loss of Smell and Taste</item>
+        <item>Cough</item>
+        <item>Shortness of Breath</item>
+        <item>Feeling Tried</item>
+    </string-array>
+</resources>
